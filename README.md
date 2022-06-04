@@ -33,10 +33,10 @@
   <br>
   <br>
   
-  <div style="display: inline_block">
+  <div style="display:inline_block">
   <a href="https://github.com/luciana-depaula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciana-depaula&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-depaula&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luciana-depaula&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-depaula&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <br>
