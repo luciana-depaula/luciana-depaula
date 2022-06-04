@@ -20,20 +20,21 @@
 
  <div style="display: inline_block"><br>
  <h3 align="right">Technologies e Tools use:</h3>
- <img align="right" alt="Luciana-de-Paula-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <img align="right" alt="RLuciana-de-Paula-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="right" alt="Luciana-de-Paula-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="right" alt="Luciana-de-Paula-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
- <img align="right" alt="Luciana-de-Paula-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
- <img align="right" alt="Luciana-de-Paula-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
- <img align="right" alt="Luciana-de-Paula-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="Luciana-de-Paula-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="right" alt="Luciana-de-Paula-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <img align="right" alt="RLuciana-de-Paula-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="right" alt="Luciana-de-Paula-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="right" alt="Luciana-de-Paula-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+ <img align="right" alt="Luciana-de-Paula-WordPress" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+ <img align="right" alt="Luciana-de-Paula-Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+ <img align="right" alt="Luciana-de-Paula-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="right" alt="Luciana-de-Paula-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  </div> 
 
   <br>
   <br>
   
-  <div style="display:inline_block">
+  <div style="display:inline_block" align="center">
+ <br>
   <a href="https://github.com/luciana-depaula">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luciana-depaula&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-depaula&layout=compact&langs_count=7&theme=radical"/>
