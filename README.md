@@ -18,7 +18,7 @@
 
 <hr>
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
  <h3 align="right">Technologies e Tools use:</h3>
  <img align="right" alt="Luciana-de-Paula-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  <img align="right" alt="RLuciana-de-Paula-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
