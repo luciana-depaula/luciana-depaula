@@ -36,8 +36,8 @@
   <div style="display:inline_block" align="center">
  <br>
   <a href="https://github.com/luciana-depaula">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luciana-depaula&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-depaula&layout=compact&langs_count=7&theme=radical"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=luciana-depaula&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-depaula&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <br>
